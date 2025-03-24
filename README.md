@@ -1,5 +1,5 @@
 ## Link to my website
-[nft-marketplace](https://jolly-semolina-9e08c4.netlify.app/)
+[nft-marketplace]([https://jolly-semolina-9e08c4.netlify.app/](https://nft-marketplace-india.netlify.app/))
 
 # Hardhat NFT Marketplace 
 
